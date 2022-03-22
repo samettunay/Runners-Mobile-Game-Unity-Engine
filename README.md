@@ -6,7 +6,7 @@ My game that I planned to release at the end of the first year of university, bu
 
 All files
 
-https://drive.google.com/drive/folders/1rXJYm8kp4afXZqM9xJ6-lUsmXkkTrIih?usp=sharing
+Coming soon
 
 Wave 1 demo
 
