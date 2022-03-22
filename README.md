@@ -4,9 +4,7 @@ My game that I planned to release at the end of the first year of university, bu
 
 # Runners
 
-All files
-
-Coming soon
+All files coming soon
 
 Wave 1 demo
 
